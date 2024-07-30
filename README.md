@@ -28,7 +28,7 @@ In my free time I enjoy playing video games with friends from around the world, 
 [![Bash](https://img.shields.io/badge/bash-%23121011.svg?logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?logo=powershell&logoColor=white)](https://docs.microsoft.com/en-us/powershell/)
 
-###  Frameworks, Libraries, and ML/DL Tools
+###  Frameworks, Libraries
 #### JavaScript
 [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white)](https://nodejs.org/)
 [![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
