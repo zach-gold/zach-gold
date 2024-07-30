@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile
 
 
-## 💫 About Me
+##  About Me
 I'm a software engineer with a passion for problem solving and learning. One of software engineering's biggest draws for me is that technology is continuously evolving and improving the world around us. During my time at App Academy, I developed three full-stack web apps using technologies including, AWS, Python, JavaScript, , Flask, Express.js, React.js, Redux, HTML and CSS3, and SQLAlchemy.
 
 My favorite of these apps being a clone of StackOverflow which was a group project with a python backend that really helped me develop many crucial skills needed for working with others in a development environment.
@@ -13,13 +13,13 @@ In the future I want to continue the development of my three apps to include mor
 In my free time I enjoy playing video games with friends from around the world, cooking, and learning more and more about the things around me. Engineering has always been a passion of mine, software is just my specialization!
 
 
-## ✨ Featured Repos
+##  Featured Repos
 
 - [HeapLeak](https://github.com/dfout/heapleak) This is a StackOverflow Clone developed collaboratively.
 - [superGoodEnough](https://github.com/zach-gold/superGoodEnough) A full-stack clone of theCrag for crowsourcing rock climbing information.
 
-## 💻 Tech Stack
-### 📚 Languages
+##  Tech Stack
+###  Languages
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
@@ -28,7 +28,7 @@ In my free time I enjoy playing video games with friends from around the world, 
 [![Bash](https://img.shields.io/badge/bash-%23121011.svg?logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?logo=powershell&logoColor=white)](https://docs.microsoft.com/en-us/powershell/)
 
-### 🔍 Frameworks, Libraries, and ML/DL Tools
+###  Frameworks, Libraries, and ML/DL Tools
 #### JavaScript
 [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white)](https://nodejs.org/)
 [![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
@@ -45,7 +45,7 @@ In my free time I enjoy playing video games with friends from around the world, 
 [![Jinja](https://img.shields.io/badge/jinja-white.svg?logo=jinja&logoColor=black)](https://jinja.palletsprojects.com/)
 [![pip3](https://img.shields.io/badge/pip3-%2314354C.svg?logo=pypi&logoColor=white)](https://pypi.org/project/pip/)
 
-### 🪛 Tools and Platforms
+###  Tools and Platforms
 [![Render](https://img.shields.io/badge/Render-%46E3B7.svg?logo=render&logoColor=white)](https://render.com/)
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](https://www.postman.com/)
@@ -54,16 +54,16 @@ In my free time I enjoy playing video games with friends from around the world, 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)](https://github.com/)
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white)](https://git-scm.com/)
 
-### 🗂️ Databases and ORMs
+### 🗂 Databases and ORMs
 [![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html)
 [![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?logo=Sequelize&logoColor=white)](https://sequelize.org/)
 [![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-%2361DAFB?logo=sqlalchemy&logoColor=%23FF0000&color=%23202020)](https://www.sqlalchemy.org/)
 [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
-## 📈 GitHub Activity Graph
+##  GitHub Activity Graph
 [![Ashutosh's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zach-gold&theme=react-dark)](#-github-activity-graph)
 
-## 📊 GitHub Stats
+##  GitHub Stats
 [![Visit Count](https://visitcount.itsvg.in/api?id=zach-gold&icon=0&color=1)](#-github-stats)<br>
 <a href="#-github-stats"><img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zach-gold&theme=vue-dark&layout=compact&custom_title=Language%20Distribution"/></a>
 <a href="#-github-stats"><img height="175" src="https://github-readme-stats.vercel.app/api?username=zach-gold&theme=vue-dark&count_private=true&show_icons=true&custom_title=My%20Stats"/></a>
