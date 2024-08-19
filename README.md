@@ -2,13 +2,13 @@
 
 
 ##  About Me
-I'm a software engineer with a passion for problem solving and learning. One of software engineering's biggest draws for me is that technology is continuously evolving and improving the world around us. During my time at App Academy, I developed three full-stack web apps using technologies including, AWS, Python, JavaScript, , Flask, Express.js, React.js, Redux, HTML and CSS3, and SQLAlchemy.
+I'm a software engineer with previous experience as an endpoint engineer where I maintained various mission critical IT assets, with a passion for problem solving and learning. One of software engineering's biggest draws for me is that technology is continuously evolving and improving the world around us. During my time at App Academy (an intensive full-stack software engineering program), I developed three full-stack web apps using technologies including, AWS, Python, JavaScript, , Flask, Express.js, React.js, Redux, HTML and CSS3, and SQLAlchemy.
 
 My favorite of these apps being a clone of StackOverflow which was a group project with a python backend that really helped me develop many crucial skills needed for working with others in a development environment.
 
 My latest project is a clone of the website theCrag.com. The reason I chose theCrag as my latest development is that it showed new challenges for myself requiring me to not only develop the app in a short time but also learn and utilize new technologies not part of the course curriculum.
 
-In the future I want to continue the development of my three apps to include more features while also looking for employment as a software engineer.
+In the future I want to continue the development of my apps to include more features while also looking for employment as a software engineer.
 
 In my free time I enjoy playing video games with friends from around the world, cooking, and learning more and more about the things around me. Engineering has always been a passion of mine, software is just my specialization!
 
@@ -70,7 +70,7 @@ In my free time I enjoy playing video games with friends from around the world, 
 
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tzm01)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zacharyryangold/)
 
 
 Thank you for visiting my profile!
